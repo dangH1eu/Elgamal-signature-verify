@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|d:\\bfile_v2\\finished\\atbmtt\\test\\chukysoelegamal\\elegamalsign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|d:\\bfile_v2\\finished\\atbmtt\\test\\chukysoelegamal\\elegamalsign\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|d:\\bfile_v2\\finished\\atbmtt\\test\\chukysoelegamal\\elegamalsign\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F60E895-BCF4-4210-9E01-9DE3F18CB24E}|ElgamalSign.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T14:07:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:07:08.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\bfile_v2\\finished\\atbmtt\\test\\ChuKySoElegamal\\ElegamalSign\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T14:07:04.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

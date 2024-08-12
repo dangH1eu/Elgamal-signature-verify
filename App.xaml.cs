@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace ChuKySoElegamal
+namespace ElgamalSign
 {
     /// <summary>
     /// Interaction logic for App.xaml

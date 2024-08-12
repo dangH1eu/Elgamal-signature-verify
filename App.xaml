@@ -1,7 +1,7 @@
-﻿<Application x:Class="ChuKySoElegamal.App"
+﻿<Application x:Class="ElgamalSign.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ChuKySoElegamal"
+             xmlns:local="clr-namespace:ElgamalSign"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
